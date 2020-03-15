@@ -1,0 +1,25 @@
+body {
+    background-color: #FFEBCD;
+}
+
+h1 {
+    color: #ffffff;
+    background-color: #FFDAB9;
+}
+
+.favorite2 {
+    color: #FF33FF;
+}
+
+.border {
+    background-color: #ffffff;
+    border: #CBFFD3 5px solid;
+}
+
+.blue {
+    color: #88FFFF;
+}
+
+.green {
+    color: #00BB00;
+}
